@@ -1,1 +1,1 @@
-- <a href="glitchcowboi_planet swirl_09-14-24"> sample code </a>
+[sample code](glitchcowboi_planet_swirl_09-14-24)
